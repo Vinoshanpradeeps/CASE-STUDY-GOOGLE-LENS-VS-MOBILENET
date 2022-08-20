@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+img{
+    background-color: white;
+}
+.image-responsive{
+    width: 150px;
+    height: 300px;
+}
